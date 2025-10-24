@@ -9,8 +9,6 @@ redirect_from:
 
 Hi! I'm Rahul Rajendran, an undergraduate Computer Science student at [Texas A&M University](https://www.tamu.edu/). I'm currently researching morality-related biases of LLMs with [Texas A&M NLP Group](https://nlp.cs.tamu.edu/), advised by [Dr. Ruihong Huang](https://people.engr.tamu.edu/huangrh/index.html).
 
-##
-
 ## Projects
 
 <div class="about-projects">
@@ -25,7 +23,7 @@ Hi! I'm Rahul Rajendran, an undergraduate Computer Science student at [Texas A&M
       <span class="papertitle" style="font-size: 16px;"><strong>ViewMe: AI-Driven Virtual Interview Helper</strong></span><br>
       End-to-end mock interview platform with real-time feedback across clarity, fluency, and engagement<br>
       <strong>2nd Place at Texas A&M 2025 Engineering Project Showcase</strong><br>
-      <a href="https://drive.google.com/file/d/16ZIPFB8bfGEukrtCU7wZxwsavvSk63pA/view?usp=drive_link">[Demo]</a>
+      <a href="https://drive.google.com/file/d/16ZIPFB8bfGEukrtCU7wZxwsavvSk63pA/view?usp=drive_link" target="_blank">[Demo]</a>
     </div>
   </div>
 
@@ -39,7 +37,7 @@ Hi! I'm Rahul Rajendran, an undergraduate Computer Science student at [Texas A&M
       </div><br>
       <span class="papertitle" style="font-size: 16px;"><strong>AirFair</strong></span><br>
       Finds the cheapest flights by automatically checking nearby airports with date flexibility<br>
-      <a href="https://drive.google.com/file/d/1bjV-H9LFG9spezclP1TrJpZpULEZm0Bj/view">[Demo]</a>
+      <a href="https://drive.google.com/file/d/1bjV-H9LFG9spezclP1TrJpZpULEZm0Bj/view" target="_blank">[Demo]</a>
     </div>
   </div>
 </div>
