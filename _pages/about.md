@@ -2,12 +2,12 @@
 permalink: /
 title: "Rahul Rajendran"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Hi! I'm Rahul Rajendran, an undergraduate Computer Science student at [Texas A&M University](https://www.tamu.edu/). I'm currently researching morality-related biases of LLMs with [Texas A&M NLP Group](https://nlp.cs.tamu.edu/), advised by [Dr. Ruihong Huang](https://people.engr.tamu.edu/huangrh/index.html).
+Hi! I'm Rahul Rajendran, a recent Computer Science graduate from [Texas A&M University](https://www.tamu.edu/). My final thesis was on understanding morality-related biases of LLMs ([Texas A&M NLP Group](https://nlp.cs.tamu.edu/), advised by [Dr. Ruihong Huang](https://people.engr.tamu.edu/huangrh/index.html)).
 
 ## Projects
 
